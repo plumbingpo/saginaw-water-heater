@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://saginawwaterheater.com/sitemap.xml
